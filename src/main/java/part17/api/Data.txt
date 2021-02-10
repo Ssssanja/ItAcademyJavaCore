@@ -1,0 +1,1 @@
+1::февр.::2021 22::48::30 ---- java.lang.ArithmeticException: / by zero

@@ -1,0 +1,66 @@
+
+{
+  "sources": [
+    {
+      "name": "Petre's Granderson",
+      "title": "Producer",
+      "age": 31,
+      "restrictions": [
+        {
+          "type": "admin",
+          "active": false
+        },{
+          "type": "sub admin",
+          "active": true
+        },{
+          "type": "user",
+          "active": true
+        },{
+          "type": "guest",
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Albus Dambldoor",
+      "title": "Wizard",
+      "age": 777,
+      "restrictions": [
+        {
+          "type": "admin",
+          "active": true
+        },{
+          "type": "sub admin",
+          "active": false
+        },{
+          "type": "user",
+          "active": true
+        },{
+          "type": "guest",
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Noname Person",
+      "title": "noname",
+      "age": 0,
+      "restrictions": [
+        {
+          "type": "admin",
+          "active": false
+        },{
+          "type": "sub admin",
+          "active": true
+        },{
+          "type": "user",
+          "active": true
+        },{
+          "type": "guest",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "timestamp": "2020-02-10T12:30:45:999Z"
+}

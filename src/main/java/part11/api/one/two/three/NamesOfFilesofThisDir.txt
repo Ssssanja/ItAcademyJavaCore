@@ -1,0 +1,7 @@
+/home/alexandrito/Рабочий стол/liukevich/src/main/java/part11/api/one/two/three/SumOfFiles.txt
+/home/alexandrito/Рабочий стол/liukevich/src/main/java/part11/api/one/two/three/File4.txt
+/home/alexandrito/Рабочий стол/liukevich/src/main/java/part11/api/one/two/three/File5.txt
+/home/alexandrito/Рабочий стол/liukevich/src/main/java/part11/api/one/two/three/File3.txt
+/home/alexandrito/Рабочий стол/liukevich/src/main/java/part11/api/one/two/three/File1.txt
+/home/alexandrito/Рабочий стол/liukevich/src/main/java/part11/api/one/two/three/NamesOfFilesofThisDir.txt
+/home/alexandrito/Рабочий стол/liukevich/src/main/java/part11/api/one/two/three/File2.txt
